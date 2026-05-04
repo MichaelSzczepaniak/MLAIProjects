@@ -13,11 +13,12 @@ This notebook covers the topic of explainability in machine learning models. As 
 
 ### Data
 
-Three datasets are utilized in these analyses:
+Four datasets are utilized in these analyses:
 
-+ Heart disease - TODO details
-+ Student admissions - TODO details
-+ Adult income - TODO details
+1. Income: **TODO**
+2. Insurance Data: [https://www.kaggle.com/datasets/saadaliyaseen/decoding-medical-costs-analyzing-insurance-data](https://www.kaggle.com/datasets/saadaliyaseen/decoding-medical-costs-analyzing-insurance-data)
+3. Heart Disease Data: [https://www.kaggle.com/datasets/iamcaano/heart-disease-prediction-dataset?resource=download](https://www.kaggle.com/datasets/iamcaano/heart-disease-prediction-dataset?resource=download)
+4. Admissions Data: [https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data?select=Admission_Predict_Ver1.1.csv](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data?select=Admission_Predict_Ver1.1.csv)
 
 ### Analysis highlights
 
